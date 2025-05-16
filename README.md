@@ -44,7 +44,7 @@ Key features include:
         GEMINI_API_KEY="YOUR_API_KEY"
         ```
 
-    **Note:** You will need a Gemini API key to use this project. You can obtain one from [TODO: Add Gemini API link].
+    **Note:** You will need a Gemini API key to use this project. You can obtain one from [[Gemini API](https://aistudio.google.com/apikey)].
 
 ## Usage
 

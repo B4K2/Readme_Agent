@@ -1,0 +1,15 @@
+[project]
+name = "readme-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chromadb>=1.0.9",
+    "dotenv>=0.9.9",
+    "gitpython>=3.1.44",
+    "google-adk>=0.5.0",
+    "langchain>=0.3.25",
+    "toml>=0.10.2",
+    "tqdm>=4.67.1",
+]
